@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main(){
     int num1, num2, result, choice;
+    printf("Enter two numbers: ");
     scanf("%d", &num1); 
     scanf("%d", &num2);
     printf("choice: 1: Addition\n"); 
